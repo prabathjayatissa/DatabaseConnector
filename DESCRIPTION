@@ -9,8 +9,8 @@ Authors@R: c(
     person("Observational Health Data Science and Informatics", role = c("cph")),
     person("Microsoft Inc.", role = c("cph"), comment = "SQL Server JDBC driver"),
     person("PostgreSQL Global Development Group", role = c("cph"), comment = "PostgreSQL JDBC driver"),
-    person("Oracle Inc.", role = c("cph"), comment = "Oracle  JDBC driver"),
-    person("Amazon Inc.", role = c("cph"), comment = "RedShift  JDBC driver")
+    person("Oracle In.", role = c("cph"), comment = "Oracle  JDBC driver"),
+    person("Amazon In.", role = c("cph"), comment = "RedShift  JDBC driver")
   )
 Description: An R 'DataBase Interface' ('DBI') compatible interface to various database platforms ('PostgreSQL', 'Oracle', 'Microsoft SQL Server', 
     'Amazon Redshift', 'Microsoft Parallel Database Warehouse', 'IBM Netezza', 'Apache Impala', 'Google BigQuery', 'Snowflake', 'Spark', and 'SQLite'). Also includes support for
